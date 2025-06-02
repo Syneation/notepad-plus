@@ -17,7 +17,7 @@ if you found error, please contact me (I'll try to fix it) ;)
 you can download code in my github - notepad-plus-code
 if you get a window stating that the file is unsafe, it's because I don't have the program's certification, so don't worry:(
 
-gmail: 777999cosa@gmail.com
+gmail: syneation@gmail.com
 
 # RU
 # notepad+
@@ -37,5 +37,5 @@ gmail: 777999cosa@gmail.com
 если вы обнаружили ошибку, пожалуйста, свяжитесь со мной (я постараюсь ее исправить) ;)
 вы можете скачать код на моем github - notepad-plus-code, если вы увидите окно с сообщением о том, что файл небезопасен, это потому, что у меня нет сертификата программы, так что не волнуйтесь:(
 
-gmail: 777999cosa@gmail.com
+gmail: syneation@gmail.com
 (скоро будет русская версия)
