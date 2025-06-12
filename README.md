@@ -11,6 +11,7 @@ you can also update notepad+, or if you want to make a similar project and relea
 1) in the notepad folder+ 2 text files are created where the download logs and saving text styles are stored, as well as the .cfg file where saving text styles are stored!
 2) if you have changed the font or size of the text and do not want to search for the usual text settings, then just click Edit->Reset Text Settings and then everything will reset ;) 
 3) if you want to save all fonts, colors, etc., then you need to save the file as .rtf!
+4) you can change the text alignment.
 
 ## My contact
 if you found error, please contact me (I'll try to fix it) ;)
@@ -32,6 +33,8 @@ gmail: syneation@gmail.com
 1) в папке notepad+ создаются 2 текстовых файла, в которых хранятся логи загрузки и сохранения стилей текста, а также файл .cfg, в котором хранятся стили сохранения текста!
 2) подсказка - если вы поменяли шрифт или размер текста и не хотите искать обычные настройки текста, тогда просто нажмите Edit->Reset Text Settings и тогда все сбросится ;) 
 3) подсказка - если хотите сохранить все шрифты, цвета и тд, то вам нужно сохранить файл в виде .rtf!
+4) вы можете изменить выравнивание текста.
+   
 
 ## Для связи со мной
 если вы обнаружили ошибку, пожалуйста, свяжитесь со мной (я постараюсь ее исправить) ;)
